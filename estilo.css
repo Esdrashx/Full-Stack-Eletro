@@ -1,0 +1,68 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#formasdepagamento {
+    color: black;
+}
+
+.menu {
+    background-color: black;   
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+}
+
+ .blocolojas {
+     width: 250px;
+     height: 250px;
+     border: 2px solid black;
+ }
+
+ .alil {
+     margin-left: 10px;
+ }
+
+ .blocoprodutos {
+    width: 220px;
+    height: 220px;
+    border: 2px solid black;
+ }
+  
+.alict {
+    margin-left: 20px;
+}
+
+.alict2 {
+   text-align: left;
+}
+
+ .blococontato {
+     width: 300px;
+     height: 300px;
+     border: 2px solid black;
+ }
+
+.alic {
+    margin-left: 10px;
+}
+
+ .margem {
+     margin: 15px;
+     
+ }
+
+ #rodape {
+     text-align: center;
+ }
+
+.produtos {
+    font-family: Helvetica, sans-serif; 
+}
+
+
+  
+    
+
