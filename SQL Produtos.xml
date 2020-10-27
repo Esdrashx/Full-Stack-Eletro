@@ -1,0 +1,110 @@
+<DATA>
+
+	<ROW>
+		<idproduto>1</idproduto>
+		<categoria>geladeira</categoria>
+		<descricao>Geladeira Brastemp Frost Free Duplex 375 litros</descricao>
+		<preco>3479.00</preco>
+		<precofinal>2642.13</precofinal>
+		<imagem>imagens/Brastemp_Geladeira.webp</imagem>
+	</ROW>
+
+	<ROW>
+		<idproduto>2</idproduto>
+		<categoria>geladeira</categoria>
+		<descricao>Geladeira Brastemp Frost Free Side by Side 3 Portas 540 Litros</descricao>
+		<preco>5999.90</preco>
+		<precofinal>5299.90</precofinal>
+		<imagem>imagens/brastemp%202.jpg</imagem>
+	</ROW>
+
+	<ROW>
+		<idproduto>3</idproduto>
+		<categoria>geladeira</categoria>
+		<descricao>Geladeira Brastemp Frost Free Inverse 573 litros</descricao>
+		<preco>5229.00</preco>
+		<precofinal>4199.00</precofinal>
+		<imagem>imagens/geladeira%203.webp</imagem>
+	</ROW>
+
+	<ROW>
+		<idproduto>4</idproduto>
+		<categoria>fogao</categoria>
+		<descricao>Fogão 5 Bocas Fenix com Mesa de Vidro Acendimento Automático Glass</descricao>
+		<preco>1017.00</preco>
+		<precofinal>829.90</precofinal>
+		<imagem>imagens/Fog%C3%A3o%201.jpg</imagem>
+	</ROW>
+
+	<ROW>
+		<idproduto>5</idproduto>
+		<categoria>fogao</categoria>
+		<descricao>Fogão Brastemp 5 Bocas Com Botões Removíveis E Exclusivo Aro Protetor</descricao>
+		<preco>1769.00</preco>
+		<precofinal>1329.90</precofinal>
+		<imagem>imagens/fog%C3%A3o%202.webp</imagem>
+	</ROW>
+
+	<ROW>
+		<idproduto>6</idproduto>
+		<categoria>microondas</categoria>
+		<descricao>Forno de Micro-ondas 31 Litros MEF41 Branco - Electrolux</descricao>
+		<preco>745.00</preco>
+		<precofinal>549.00</precofinal>
+		<imagem>imagens/Microondas%201.webp</imagem>
+	</ROW>
+
+	<ROW>
+		<idproduto>7</idproduto>
+		<categoria>microondas</categoria>
+		<descricao>Forno de Micro-ondas Panasonic 32 Litros</descricao>
+		<preco>669.00</preco>
+		<precofinal>249.00</precofinal>
+		<imagem>imagens/microondas%202.webp</imagem>
+	</ROW>
+
+	<ROW>
+		<idproduto>8</idproduto>
+		<categoria>microondas</categoria>
+		<descricao>Micro-ondas Electrolux 31 Litros</descricao>
+		<preco>979.90</preco>
+		<precofinal>749.90</precofinal>
+		<imagem>imagens/microondas%203.jpg</imagem>
+	</ROW>
+
+	<ROW>
+		<idproduto>9</idproduto>
+		<categoria>lavadoraderoupas</categoria>
+		<descricao>Lavadora de Roupas 16 Kg LAC16 Branca Electrolux</descricao>
+		<preco>2499.99</preco>
+		<precofinal>1899.99</precofinal>
+		<imagem>imagens/lavadora%201.webp</imagem>
+	</ROW>
+
+	<ROW>
+		<idproduto>10</idproduto>
+		<categoria>lavadoraderoupas</categoria>
+		<descricao>Lavadora de Roupas Electrolux 8,5Kg</descricao>
+		<preco>1399.00</preco>
+		<precofinal>959.90</precofinal>
+		<imagem>imagens/lavadora%202.jpg</imagem>
+	</ROW>
+
+	<ROW>
+		<idproduto>11</idproduto>
+		<categoria>lavaloucas</categoria>
+		<descricao>Lava-Louças de Embutir Panasonic</descricao>
+		<preco>5399.00</preco>
+		<precofinal>3659.90</precofinal>
+		<imagem>imagens/lava-lou%C3%A7as%201.jpg</imagem>
+	</ROW>
+
+	<ROW>
+		<idproduto>12</idproduto>
+		<categoria>lavaloucas</categoria>
+		<descricao>Lava-Louças Brastemp 14 serviços</descricao>
+		<preco>3599.00</preco>
+		<precofinal>3139.90</precofinal>
+		<imagem>imagens/lava-lou%C3%A7as%202.webp</imagem>
+	</ROW>
+</DATA>

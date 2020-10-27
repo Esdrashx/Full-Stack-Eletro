@@ -1,0 +1,68 @@
+<DATA>
+
+	<ROW>
+		<idpedidos>1</idpedidos>
+		<clientes>João Pedro</clientes>
+		<endereco>Rua Lima Duarte, 67</endereco>
+		<telefone>(11) 92554-3874</telefone>
+		<produto>Geladeira Brastemp Frost Free Duplex 375 litros</produto>
+		<valor>2642.13</valor>
+		<quantidade>1.00</quantidade>
+		<valor total>2642.13</valor total>
+	</ROW>
+
+	<ROW>
+		<idpedidos>2</idpedidos>
+		<clientes>Patricia Medeiros</clientes>
+		<endereco>Rua Imperador Marcos, 341</endereco>
+		<telefone>(11) 92863-1502</telefone>
+		<produto>Fogão Brastemp 5 Bocas Com Botões Removíveis E Exclusivo Aro Protetor</produto>
+		<valor>1329.90</valor>
+		<quantidade>1.00</quantidade>
+		<valor total>1329.90</valor total>
+	</ROW>
+
+	<ROW>
+		<idpedidos>3</idpedidos>
+		<clientes>Matheus Duarte</clientes>
+		<endereco>Av Carneiro de Sá</endereco>
+		<telefone>(11) 3208-9534</telefone>
+		<produto>Forno de Micro-ondas Panasonic 32 Litros</produto>
+		<valor>249.00</valor>
+		<quantidade>2.00</quantidade>
+		<valor total>498.00</valor total>
+	</ROW>
+
+	<ROW>
+		<idpedidos>4</idpedidos>
+		<clientes>Pamela Vilela</clientes>
+		<endereco>Rua Vitória Pirez</endereco>
+		<telefone>(11) 92403-1794</telefone>
+		<produto>Lavadora de Roupas 16 Kg LAC16 Branca Electrolux</produto>
+		<valor>1899.99</valor>
+		<quantidade>1.00</quantidade>
+		<valor total>1899.99</valor total>
+	</ROW>
+
+	<ROW>
+		<idpedidos>5</idpedidos>
+		<clientes>Eduardo Lima</clientes>
+		<endereco>Rua Cordeiro Durval</endereco>
+		<telefone>(11) 3806-1207</telefone>
+		<produto>Geladeira Brastemp Frost Free Side by Side 3 Portas 540 Litros</produto>
+		<valor>5299.90</valor>
+		<quantidade>1.00</quantidade>
+		<valor total>5299.90</valor total>
+	</ROW>
+
+	<ROW>
+		<idpedidos>6</idpedidos>
+		<clientes>Ana Maria</clientes>
+		<endereco>Av Renato Cruz</endereco>
+		<telefone>(11) 92132-0079</telefone>
+		<produto>Micro-ondas Electrolux 31 Litros</produto>
+		<valor>749.90</valor>
+		<quantidade>2.00</quantidade>
+		<valor total>1499.80</valor total>
+	</ROW>
+</DATA>
